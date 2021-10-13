@@ -1,1 +1,2 @@
 Contenido del primer archivo
+Contenido añadido al primer archivo
